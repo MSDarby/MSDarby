@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MSD
-- 👀 I’m interested in data science and python
-- 🌱 I’m currently learning how to use python
+- 👀 I’m currently doing a MSc in data science 
+- 🌱 and I’m learning to be python developer to go further with coding
 - 📫 How to reach me mauddarby@gmail.com
 
 <!---
